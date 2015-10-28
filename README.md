@@ -10,5 +10,5 @@ Vagrant project to spin up a single node, Ubuntu 12.04 LTS 64-bit box with Hadoo
 
 # 3. Note
 - This uses Open JDK 7.
-- spark-1.5.1-bin-hadoop2.4.tgz (from Apache Spark official site) is already included in the resources directory to speed up the destroy & up process (this will be included as part of the base box in the future)
+- spark-1.5.1-bin-hadoop2.4.tgz (from Apache Spark official site) has to be downloaded and placed inside the ./resources directory (to speed up the vagrant destroy & up process). In the future, this will be included as part of the base box.
 - log4j log level is configured to WARN.
