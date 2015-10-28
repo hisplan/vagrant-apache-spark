@@ -1,4 +1,4 @@
-# vagrant-apache-spark
+# vagrant-apache-spark-ubuntu
 
 ## 1. Introduction
 Vagrant project to spin up a single node, Ubuntu 12.04 LTS 64-bit box with Apache Spark 1.5.1 (pre-built for Apache Hadoop 2.4).
